@@ -1,6 +1,6 @@
 # Weather App
 
-One Paragraph of project description goes here
+This is a simple weather application I built utilizing ReactJS. It is a single-page application that allows the user to search for real-time weather data from any major city in the world. The data is being pulled from the OpenWeather API. 
 
 ## Getting Started
 
@@ -52,23 +52,15 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [React](https://reactjs.org/) - JavaScript Library Used
 * [Bootstrap](https://www.bootstrapcdn.com/) - Content Delivery Network
 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Ashtin Latting** - *Initial work* - (https://github.com/ashtin23)
+* **Ashtin Latting** - (https://github.com/ashtin23)
 
 ## License
 
